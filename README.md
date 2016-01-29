@@ -4,4 +4,4 @@ Fizzbuzz is the time honored example program in which you need to write a functi
 
 Write your solution in the `lib/fizzbuzz.js` file. Load index.html in the browser to see your code in action.
 
-<a href='https://learn.co/lessons/cssi-2.5-lab-fizzbuzz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.5-lab-fizzbuzz' title='FizzBuzz'>FizzBuzz</a> on Learn.co and start learning to code for free.</p>
